@@ -1,0 +1,13 @@
+pkgbase = fake-fonts
+	pkgdesc = provides unneeded but required fonts
+	pkgver = 0.1
+	pkgrel = 1
+	arch = x86_64
+	license = unknown
+	provides = adobe-source-code-pro-fonts
+	provides = cantarell-fonts
+	provides = ttf-opensans
+	provides = ttf-font
+	provides = gsfonts
+
+pkgname = fake-fonts

@@ -1,0 +1,13 @@
+pkgbase = zathura-meta
+	pkgdesc = Meta package for zathura
+	pkgver = 0.1
+	pkgrel = 1
+	arch = x86_64
+	license = MIT
+	depends = zathura
+	depends = zathura-pdf-mupdf
+	depends = zathura-cb
+	depends = zathura-djvu
+	depends = zathura-ps
+
+pkgname = zathura-meta

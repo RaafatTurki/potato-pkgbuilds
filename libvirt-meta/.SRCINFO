@@ -1,0 +1,15 @@
+pkgbase = libvirt-meta
+	pkgdesc = Meta package for libvirt
+	pkgver = 0.1
+	pkgrel = 1
+	install = .install
+	arch = x86_64
+	license = unknown
+	depends = libvirt
+	depends = qemu
+	depends = iptables-nft
+	depends = dnsmasq
+	depends = edk2-ovmf
+	depends = virt-manager
+
+pkgname = libvirt-meta

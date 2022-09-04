@@ -1,0 +1,12 @@
+pkgbase = fs-meta
+	pkgdesc = Meta packages for filesystems
+	pkgver = 0.1
+	pkgrel = 1
+	arch = x86_64
+	license = unknown
+	depends = gvfs
+	depends = gvfs-gphoto2
+	depends = gvfs-mtp
+	depends = gvfs-smb
+
+pkgname = fs-meta

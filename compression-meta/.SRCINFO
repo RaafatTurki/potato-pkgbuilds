@@ -1,0 +1,16 @@
+pkgbase = compression-meta
+	pkgdesc = Meta package for compression
+	pkgver = 0.1
+	pkgrel = 1
+	arch = x86_64
+	license = unknown
+	depends = gzip
+	depends = tar
+	depends = unzip
+	depends = zip
+	depends = p7zip
+	depends = unace
+	depends = unrar
+	depends = brotli
+
+pkgname = compression-meta

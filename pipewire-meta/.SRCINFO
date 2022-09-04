@@ -1,0 +1,12 @@
+pkgbase = pipewire-meta
+	pkgdesc = Meta package for pipewire
+	pkgver = 0.1
+	pkgrel = 1
+	arch = x86_64
+	license = MIT
+	depends = pipewire
+	depends = pipewire-alsa
+	depends = pipewire-jack
+	depends = pipewire-pulse
+
+pkgname = pipewire-meta
